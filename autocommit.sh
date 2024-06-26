@@ -79,7 +79,7 @@ fi
 # then update the command below to use the token. Run the command in your base directory and it will
 # handle auth. This should just be executed in your shell and not committed to any files or
 # Github will revoke the token. =)
-# git remote set-url origin https://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@github.com/scheini79/VoronV2.577Configs.git
+# git remote set-url origin https://XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX@github.com/scheini79/VoronV2.577Configs.git
 # Note that that format is for changing things after the repository is in use, vs initially
 
 push_config(){
